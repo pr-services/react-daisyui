@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.4](https://github.com/daisyui/react-daisyui/compare/v2.4.3...v2.4.4) (2022-10-12)
+
+
+### Bug Fixes
+
+* children mapping keys in Carousel, CodeMockup and Range ([#231](https://github.com/daisyui/react-daisyui/issues/231)) ([50b25e6](https://github.com/daisyui/react-daisyui/commit/50b25e687ccae19110a425ca6c94b79f6519d02b))
+
 ## [2.4.3](https://github.com/daisyui/react-daisyui/compare/v2.4.2...v2.4.3) (2022-10-10)
 
 
